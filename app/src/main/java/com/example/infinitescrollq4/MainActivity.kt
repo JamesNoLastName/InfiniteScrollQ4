@@ -1,6 +1,5 @@
-package com.example.infinitescrollq4  // Ensure the package name is lowercase
-
-import com.example.infinitescrollq4.ui.theme.InfiniteScrollQ4Theme // Correct import based on lowercase package
+package com.example.infinitescrollq4
+import com.example.infinitescrollq4.ui.theme.InfiniteScrollQ4Theme
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
